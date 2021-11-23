@@ -2,6 +2,6 @@
 
 I design portfilio page using:
 
-*(HTML) 
-*(CSS) 
-*(JavaScript) 
+* HTML 
+* CSS 
+* JavaScript
